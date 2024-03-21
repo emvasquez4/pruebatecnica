@@ -1,0 +1,12 @@
+CREATE TABLE TarjetasCredito (
+    CodTarjeta INT IDENTITY(1,1) PRIMARY KEY,
+    NumeroTarjeta NVARCHAR(50),
+    Nombres NVARCHAR(100),
+    Apellidos NVARCHAR(100),
+    SaldoActual FLOAT,
+    LimiteCredito FLOAT,
+    SaldoDisponible FLOAT,
+    EstadoTarjeta NVARCHAR(20),
+    PorcentajeInteres FLOAT,
+	PorcentajeInteresMin FLOAT
+);

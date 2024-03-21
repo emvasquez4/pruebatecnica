@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\services\\tarjetacreditoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\services\\tarjetacreditoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\services\\transaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\services\\transaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\tarjetascredito.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\tarjetascredito.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574B0E7C-9B67-4A4B-B4D0-8AB15EDD0E6C}|CreditCardsWebApp\\CreditCardsWebApp.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\creditcardswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574B0E7C-9B67-4A4B-B4D0-8AB15EDD0E6C}|CreditCardsWebApp\\CreditCardsWebApp.csproj|solutionrelative:creditcardswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574B0E7C-9B67-4A4B-B4D0-8AB15EDD0E6C}|CreditCardsWebApp\\CreditCardsWebApp.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\creditcardswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574B0E7C-9B67-4A4B-B4D0-8AB15EDD0E6C}|CreditCardsWebApp\\CreditCardsWebApp.csproj|solutionrelative:creditcardswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\modelos\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\modelos\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\modelos\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\modelos\\tarjetacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\conexiondb\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\conexiondb\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|e:\\backup\\proyectos\\prueba\\estadocuenta\\tarjetascredito\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{988FBCD7-2183-48EA-A917-EAA37D5008B5}|TarjetasCredito\\TarjetasCredito.csproj|solutionrelative:tarjetascredito\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarjetasCredito",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\TarjetasCredito.csproj",
+              "RelativeDocumentMoniker": "TarjetasCredito\\TarjetasCredito.csproj",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\TarjetasCredito.csproj",
+              "RelativeToolTip": "TarjetasCredito\\TarjetasCredito.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T10:07:01.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\CreditCardsWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CreditCardsWebApp\\Program.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\CreditCardsWebApp\\Program.cs",
+              "RelativeToolTip": "CreditCardsWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:06:56.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\CreditCardsWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CreditCardsWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\CreditCardsWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CreditCardsWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:56:33.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Modelos\\Exception.cs",
+              "RelativeDocumentMoniker": "TarjetasCredito\\Modelos\\Exception.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Modelos\\Exception.cs",
+              "RelativeToolTip": "TarjetasCredito\\Modelos\\Exception.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:27:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransaccionesService.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Services\\TransaccionesService.cs",
+              "RelativeDocumentMoniker": "TarjetasCredito\\Services\\TransaccionesService.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Services\\TransaccionesService.cs",
+              "RelativeToolTip": "TarjetasCredito\\Services\\TransaccionesService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwIIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:55:30.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarjetasController.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Controllers\\TarjetasController.cs",
+              "RelativeDocumentMoniker": "TarjetasCredito\\Controllers\\TarjetasController.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Controllers\\TarjetasController.cs",
+              "RelativeToolTip": "TarjetasCredito\\Controllers\\TarjetasController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:51:34.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarjetaCreditoService.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Services\\TarjetaCreditoService.cs",
+              "RelativeDocumentMoniker": "TarjetasCredito\\Services\\TarjetaCreditoService.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Services\\TarjetaCreditoService.cs",
+              "RelativeToolTip": "TarjetasCredito\\Services\\TarjetaCreditoService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwCYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:37:49.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\ConexionDB\\Context.cs",
+              "RelativeDocumentMoniker": "TarjetasCredito\\ConexionDB\\Context.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\ConexionDB\\Context.cs",
+              "RelativeToolTip": "TarjetasCredito\\ConexionDB\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:37:36.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TarjetaCredito.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Modelos\\TarjetaCredito.cs",
+              "RelativeDocumentMoniker": "TarjetasCredito\\Modelos\\TarjetaCredito.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Modelos\\TarjetaCredito.cs",
+              "RelativeToolTip": "TarjetasCredito\\Modelos\\TarjetaCredito.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:36:21.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Program.cs",
+              "RelativeDocumentMoniker": "TarjetasCredito\\Program.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Program.cs",
+              "RelativeToolTip": "TarjetasCredito\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:32:09.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransaccionesController.cs",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Controllers\\TransaccionesController.cs",
+              "RelativeDocumentMoniker": "TarjetasCredito\\Controllers\\TransaccionesController.cs",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\Controllers\\TransaccionesController.cs",
+              "RelativeToolTip": "TarjetasCredito\\Controllers\\TransaccionesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:16:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\appsettings.json",
+              "RelativeDocumentMoniker": "TarjetasCredito\\appsettings.json",
+              "ToolTip": "E:\\backup\\Proyectos\\Prueba\\EstadoCuenta\\TarjetasCredito\\appsettings.json",
+              "RelativeToolTip": "TarjetasCredito\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T05:32:04.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

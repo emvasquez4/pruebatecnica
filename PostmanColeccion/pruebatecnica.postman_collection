@@ -1,0 +1,78 @@
+{
+	"info": {
+		"_postman_id": "4429fea6-c5a5-4fbf-8fa5-83faaa5b0c7e",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "29485794"
+	},
+	"item": [
+		{
+			"name": "TarjetasGetAll",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://localhost:44313/GetAllTarjetasCredito"
+			},
+			"response": []
+		},
+		{
+			"name": "GetNumeroTarjeta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44313/GetNumeroTarjeta?numtarjeta=\"1234563121231231\"",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44313",
+					"path": [
+						"GetNumeroTarjeta"
+					],
+					"query": [
+						{
+							"key": "numtarjeta",
+							"value": "\"1234563121231231\""
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetAllTransacciones",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://localhost:44313/GetAllTransacciones"
+			},
+			"response": []
+		},
+		{
+			"name": "GetNumeroTarjeta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44313/GetTrxNumeroTarjetaDosMeses?numtarjeta=123215154852",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44313",
+					"path": [
+						"GetTrxNumeroTarjetaDosMeses"
+					],
+					"query": [
+						{
+							"key": "numtarjeta",
+							"value": "123215154852"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,9 @@
+CREATE TABLE Transacciones (
+    CodTransaccion INT PRIMARY KEY,
+    FechaTransaccion DATETIME,
+	NumeroTarjeta NVARCHAR(16),
+    Descripcion NVARCHAR(200),
+    Monto NVARCHAR(50),
+    Estado NVARCHAR(20),
+    Tipo NVARCHAR(10)
+);

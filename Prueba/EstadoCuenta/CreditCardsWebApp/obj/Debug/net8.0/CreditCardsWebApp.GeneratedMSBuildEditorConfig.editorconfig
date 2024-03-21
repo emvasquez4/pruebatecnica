@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CreditCardsWebApp
+build_property.RootNamespace = CreditCardsWebApp
+build_property.ProjectDir = E:\backup\Proyectos\Prueba\EstadoCuenta\CreditCardsWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\backup\Proyectos\Prueba\EstadoCuenta\CreditCardsWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/Home/EstadoCuenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc3RhZG9DdWVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/Home/RegistrarCompra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXJDb21wcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/Home/RegistrarPago.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXJQYWdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/Home/Transacciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFuc2FjY2lvbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/backup/Proyectos/Prueba/EstadoCuenta/CreditCardsWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f4ocij7oru
