@@ -48,18 +48,31 @@ namespace CreditCard.Services
         {
             try
             {
+                double SaldoTotal = 0;
 
                 List<TarjetaCredito> Tarjetas = new List<TarjetaCredito>();
 
                 Tarjetas = await dbContext.TarjetasCredito.Where(x => x.NumeroTarjeta == filtro.FiltroSecundario).ToListAsync();
+                if (Tarjetas.Count > 0) {
+                    var transacciones = await dbContext.Transacciones.Where(y => y.NumeroTarjeta == filtro.FiltroSecundario && y.Tipo == "C").ToListAsync(); //PARA EL CASO C SIGNIFICA CARGO O COMPRA 
+                    if (transacciones.Count > 0) { 
+                        SaldoTotal = transacciones.Sum(x => Convert.ToDouble(x.Monto));
+                    }
 
-                Tarjetas[0].SaldoActual = Tarjetas[0].SaldoActual == null ? 0 : Tarjetas[0].SaldoActual;
-                Tarjetas[0].PorcentajeInteres = Tarjetas[0].PorcentajeInteres == null ? 0 : Tarjetas[0].PorcentajeInteres;
-                Tarjetas[0].InteresBonificable = Tarjetas[0].SaldoActual * (Tarjetas[0].PorcentajeInteres / 100); //ASUMIENDO QUE EL CAMPO PORCENTAJE SE GUARDA COMO PORCENTAJE
+                    Tarjetas[0].SaldoActual = Tarjetas[0].SaldoActual == null ? 0 : Tarjetas[0].SaldoActual;
+                    Tarjetas[0].PorcentajeInteres = Tarjetas[0].PorcentajeInteres == null ? 0 : Tarjetas[0].PorcentajeInteres;
+                    Tarjetas[0].InteresBonificable = SaldoTotal * (Tarjetas[0].PorcentajeInteres / 100); //ASUMIENDO QUE EL CAMPO PORCENTAJE SE GUARDA COMO PORCENTAJE
 
-                Tarjetas[0].SaldoActual = Tarjetas[0].SaldoActual == null ? 0 : Tarjetas[0].SaldoActual;
-                Tarjetas[0].PorcentajeInteresMin = Tarjetas[0].PorcentajeInteresMin == null ? 0 : Tarjetas[0].PorcentajeInteresMin;
-                Tarjetas[0].CuotaMinima = Tarjetas[0].SaldoActual * (Tarjetas[0].PorcentajeInteresMin / 100); //ASUMIENDO QUE EL CAMPO PORCENTAJE SE GUARDA COMO PORCENTAJE AL CALCULO DE CUOTA MIN
+                    Tarjetas[0].SaldoActual = Tarjetas[0].SaldoActual == null ? 0 : Tarjetas[0].SaldoActual;
+                    Tarjetas[0].PorcentajeInteresMin = Tarjetas[0].PorcentajeInteresMin == null ? 0 : Tarjetas[0].PorcentajeInteresMin;
+                    Tarjetas[0].CuotaMinima = SaldoTotal * (Tarjetas[0].PorcentajeInteresMin / 100); //ASUMIENDO QUE EL CAMPO PORCENTAJE SE GUARDA COMO PORCENTAJE AL CALCULO DE CUOTA MIN
+
+                    Tarjetas[0].SaldoTotal = SaldoTotal; // monto total a pagar
+
+                    Tarjetas[0].MontoTotalInteres = Tarjetas[0].InteresBonificable + SaldoTotal; // ([Saldo Total] + [Interés Bonificable]) 
+                }
+
+                
 
                 return Tarjetas;
             }
